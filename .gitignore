@@ -135,3 +135,6 @@ labelImg
 tensorboard_logs/
 /tensorboard_logs
 tensorboard_logs
+data
+data/
+/data
