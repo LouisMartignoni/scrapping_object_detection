@@ -131,3 +131,7 @@ dmypy.json
 # app
 labelImg/
 /labelImg
+labelImg
+tensorboard_logs/
+/tensorboard_logs
+tensorboard_logs
